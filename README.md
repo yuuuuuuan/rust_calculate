@@ -28,3 +28,4 @@ triangle4:[-10.0, 10.0, 10.0]
 Ok(NaN)
 
 ```
+![img](https://github.com/yuuuuuuan/rust_calculate/blob/master/calculate.PNG)
